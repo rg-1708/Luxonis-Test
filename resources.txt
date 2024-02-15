@@ -1,0 +1,10 @@
+Repos: 
+https://github.com/rg-1708/test-client-luxonis
+https://github.com/rg-1708/test-server-luxonis
+
+Were used to create:
+Typescript, NodeJS (net library, essentials).
+Buffer to transfer messages, with custom MessageTypes.
+Cli i/o.
+
+then packaged into executables using pkg.
